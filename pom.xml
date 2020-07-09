@@ -11,6 +11,9 @@
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+        <app.id>samp</app.id>
+        <app.version>v-1-0</app.version>
     </properties>
 
     <dependencies>
